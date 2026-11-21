@@ -2,6 +2,8 @@
 
 # comfort-complaint-heatmap
 
+[![CI](https://github.com/yassine2med/comfort-complaint-heatmap/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/comfort-complaint-heatmap/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Occupant comfort calls (too hot, too cold, stuffy, drafty) pile up in a log and nobody sees the pattern. This tool reads a complaint CSV and shows where and when calls cluster, as a text heatmap in the terminal or an SVG image, and ranks zones by hot versus cold balance.
 
 ![Screenshot](docs/screenshot.png)
