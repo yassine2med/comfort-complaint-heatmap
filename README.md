@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="comfort-complaint-heatmap" width="100%"></p>
+
 # comfort-complaint-heatmap
 
 Occupant comfort calls (too hot, too cold, stuffy, drafty) pile up in a log and nobody sees the pattern. This tool reads a complaint CSV and shows where and when calls cluster, as a text heatmap in the terminal or an SVG image, and ranks zones by hot versus cold balance.
